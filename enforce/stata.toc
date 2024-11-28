@@ -1,0 +1,5 @@
+'enforce': force variables to satisfy a set of accounting identities
+
+v 1.11.8
+d Mauricio Caceres Bravo, mauricio.caceres.bravo@gmail.com
+p 'GTOOLS': Faster implementation of common Stata commands for big data
