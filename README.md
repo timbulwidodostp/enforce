@@ -3,6 +3,8 @@ Force variables to satisfy a set of accounting identities Use enforce With STATA
 
 Enforce accounting identities between variables Use enforce With STATA 18
 
+https://www.youtube.com/watch?v=U4mtYFa2dWc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
